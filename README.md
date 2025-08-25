@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="hello.jpg" alt="hello">
+</div>
+
 <!--
 **yeremiaerensa/yeremiaerensa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
