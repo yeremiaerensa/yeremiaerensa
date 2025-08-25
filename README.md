@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="hello.jpg" alt="hello">
+  <img src="hello.jpg" alt="hello" width="50%">
 </div>
 
 <!--
