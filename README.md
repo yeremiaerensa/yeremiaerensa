@@ -3,6 +3,15 @@
 </h2>
 
 
+<div align="center">
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/5TI5njbyM72BvXY0vpJbKb) <be>
+
+</details>
+</div>
+
 
 
 
